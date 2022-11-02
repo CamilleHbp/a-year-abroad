@@ -23,7 +23,7 @@ Tous les 15 jours, les habitants du village et des voisins intéressés viennent
 
 La cuisine d’Annika est une jungle de plants de tomate, il est temps que nous construisions la serre pour les accueillir.
 
-![](images/E-20210430-14h00s03-1024x768.jpg)
+{{< figure src="images/E-20210430-14h00s03-1024x768.jpg" >}}
 
 Emelyne dans la jungle cuisine !
 
@@ -33,13 +33,13 @@ Annika avait une grande serre, mais celle-ci ne s’adapte pas sur les terrains 
 
 En parallèle de la construction de la serre, nous travaillons au jardin d’une voisine tous les jeudis ! On a planté des patates, des oignons, des choux, ajouté de l’engrais et on a également aidé à la réparation de leur maison qui est entièrement en paille et argile !
 
-![](images/G-20210513-09h56s51-1024x768.jpg)
+{{< figure src="images/G-20210513-09h56s51-1024x768.jpg" >}}
 
 Travail au jardin !
 
 C’est une belle expérience de travailler sur ce terrain. Nous avons le coucou des canards et des cochons de temps en temps ! D’ailleurs, des bébés canard sont nés juste avant notre arrivée ! ❤️
 
-![](images/Cochon-Canard1.gif)
+{{< figure src="images/Cochon-Canard1.gif" >}}
 
 A la ferme !
 
@@ -53,7 +53,7 @@ On a tellement bien creusé que la terrasse a été montée rapidement ! Du cou
 
 Ah oui, Annika veut se faire des dreadlocks et a besoin d’aide, du coup j’apprends à en faire !
 
-![](images/M-20210521-20h16s19-768x1024.jpg)
+{{< figure src="images/M-20210521-20h16s19-768x1024.jpg" >}}
 
 Faut que ça crèpe bien !
 
@@ -71,17 +71,17 @@ La mer du nord n’a rien à envier aux autres car elle est transparente, quoiqu
 
 Toujours ces paysages de ruisseaux, petites cascades, et forêts d’un vert vivifiant accolées à de grands rochers !
 
-![](images/GIF-Foret.gif)
+{{< figure src="images/GIF-Foret.gif" >}}
 
 Ah oui, on paie toujours en carte bleu, mais pour la 1ère fois, on fréquente des établissements de seconde main qui ne prennent pas la carte. Du coup, j’ai retiré des sous pour la 1ère fois ! J’en profite donc pour vous montrer ce à quoi ressemble la monnaie locale !
 
-![](images/T-20210521-14h02s47-1024x768.jpg)
+{{< figure src="images/T-20210521-14h02s47-1024x768.jpg" >}}
 
 Fric, fric, fric !
 
 En parlant de local, voici ce que l’on peut voir sur les parking !
 
-![](images/20210523-11h03s51-1024x768.jpg)
+{{< figure src="images/20210523-11h03s51-1024x768.jpg" >}}
 
 Il donne envi de rester ce pays !
 
@@ -89,7 +89,7 @@ Il donne envi de rester ce pays !
 
 Un matin, je me réveille et voici ce que je vois à ma fenêtre !
 
-![](images/V-20210527-08h40s44-1024x768.jpg)
+{{< figure src="images/V-20210527-08h40s44-1024x768.jpg" >}}
 
 Une chèvre ?! (qui fait du camping en plus !?)
 
@@ -97,13 +97,13 @@ Deux nouveaux volontaires sont arrivés : Florine et David, accompagné de Frey
 
 Du coup, on s’est fait viré de notre petit stuga ! Mais on a gagné au change sur la vue !
 
-![](images/Y-20210531-20h08s40-1024x768.jpg)
+{{< figure src="images/Y-20210531-20h08s40-1024x768.jpg" >}}
 
 Petite vue sur le lac !
 
 Il y a désormais plus de mains pour travailler et on s’est mis à déplacer la forêt !
 
-![](images/GIF-Deforestation.gif)
+{{< figure src="images/GIF-Deforestation.gif" >}}
 
 Ah oui, et du coup, on creuse beaucoup plus vite !!! En 1h, on a déterré 5-6 buissons de baies ! Et il ne fallait trainer pour les replanter !
 
@@ -119,6 +119,6 @@ Utsikten Ekoby nous laissera un beau souvenir. Ce fut une expérience très enri
 
 Marie et Annika ont partagé beaucoup avec nous. Nous avons eu l’occasion de bien nous amuser avec leurs enfants, Viggo et Vendela qui sont plein.e.s de vie et d’énergie ! Merci pour la salade banane ciboulette ! Nous sommes fièr.e.s d’avoir participé.e.s à la construction et au développement de leur terrain et du village et nous pouvons que conseiller cet endroit pour une visite merveilleuse !
 
-![](images/20210613_193154-1024x768.jpg)
+{{< figure src="images/20210613_193154-1024x768.jpg" >}}
 
 Merci à Viggo de nous avoir prêté sa cabane !

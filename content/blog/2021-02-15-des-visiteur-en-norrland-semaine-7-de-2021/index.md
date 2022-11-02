@@ -12,8 +12,8 @@ cover:
 Nous avons eu la visite d’Amaury, le frère de Camille, et de Glenn, un de ses amis ! Ils sont arrivés de nuit et ont pu voir leur premières aurores boréales, et pas des petites !  
 On a profité de scintillement orange et violet !
 
-![](images/20210215-23h45s20-1024x768.jpg)
-![](images/20210215-22h13s24IMG_20210215_220937-1024x768.jpg)
+{{< figure src="images/20210215-23h45s20-1024x768.jpg" >}}
+{{< figure src="images/20210215-22h13s24IMG_20210215_220937-1024x768.jpg" >}}
 
 On leur a fait découvrir le sport régional : le ski nordique ! Ah bah, il y a eu des chutes ! x)
 
@@ -44,7 +44,7 @@ Bref, je m’égare. On a également fait un sauna ! Mais à Jokkmokk, pas de s
 
 Nos invités ont profité d’une balade en moto neige où ils ont pu admirer des élans et des rennes. Ça a été l'occasion de découvrir la joie d’un feu et d’une grillade en bordure d’un lac gelé. ! 😊
 
-![](images/20210219-14h51s48-1024x683.jpg)
+{{< figure src="images/20210219-14h51s48-1024x683.jpg" >}}
 
 Dans un autre délire culinaire, on a également eu l’occasion de tester la chaine de fast food suédoise : MAX. Bah desolée, mais c’était aussi blasant que McDonald (je leur accorde qu'ils ont des milkshakes vegan vraiment bon !).
 

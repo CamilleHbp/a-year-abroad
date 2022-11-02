@@ -27,7 +27,7 @@ Voici notre premier projet de sculpture sur bois ! Ce sont des petites pinces p
 
 Second projet, les couteaux à tartiner. Émelyne et moi nous sommes bien amusés, et chacun y est allé de son style ! On remarque la belle dague d’Émelyne !
 
-![](images/20210121-19h38s47-1024x576.jpeg)
+{{< figure src="images/20210121-19h38s47-1024x576.jpeg" >}}
 
 ## Les supports de tablette/ordinateur
 
@@ -37,7 +37,7 @@ Autre petit projet pratique, dans l’esprit Humble Habitat. Nous voulions un pe
 
 Petit problème dans la tiny house : David et Eliza n’avaient pas vidé les coffres situés sous l’espace salon de la tiny house. Des souris s’y était faites un petit abri confortable dans les couettes et couvertures qui y moisissaient depuis des mois. Mais pas de soucis ! Système D à la rescousse ! Une bouteille en plastique récupérée, du bois, quelques vis, et voilà ! Un beau piège à souris !
 
-![](images/20201126-16h43s09-1024x768.jpg)
+{{< figure src="images/20201126-16h43s09-1024x768.jpg" >}}
 
 ## Poignée de porte
 

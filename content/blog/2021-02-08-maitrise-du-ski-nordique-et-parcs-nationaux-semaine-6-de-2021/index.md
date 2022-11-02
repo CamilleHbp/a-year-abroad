@@ -11,7 +11,7 @@ cover:
 
 On essaie de se faire un petite sortie tous les jour (par exemple, au moins 1h de ski nordique ). Notamment car nous avons trouvé des VRAIS pistes de ski nordique ! La ville de Jokkmokk entretient des pistes autour de la ville et c'est comme ça que pas mal de gens se maintiennent en forme ! (Certains ont le footing, d'autres le ski nordique !)
 
-![](images/20210208-11h47s26-1024x576.jpg)
+{{< figure src="images/20210208-11h47s26-1024x576.jpg" >}}
 
 Les hot-dogs de 7/11 me manquent parfois, du coup je continue mon tour des stations services pour tester chaque hot-dog vegan ! Verdict : ceux de "Circle K" on une texture intéressante mais pas de goût. N’empêche, nous avons réussi à vider leur stock car  on a acheté 4 hot-dog !
 
@@ -25,7 +25,7 @@ Marcher sur le lac gelé nous a permis d'attendre une petite île avec une caban
 
 On a eu la chance, un soir, de voir un ciel devenir tout vert !
 
-![](images/20210212-22h45s40IMG_20210212_224149-1024x768.jpg)
+{{< figure src="images/20210212-22h45s40IMG_20210212_224149-1024x768.jpg" >}}
 
 Jokkmokk est près de plusieurs parcs nationaux : Sarek, Stora Sjöfallet et Muddus.
 
@@ -42,8 +42,8 @@ En ce qui concerne le parc de Stora Sjöfallet, nous avons pu y rentrer avec la 
 
 Mais tout va bien, et comme on dit "après l'effort, le réconfort!"
 
-![](images/20210214-12h15s30-1024x576.jpg)
+{{< figure src="images/20210214-12h15s30-1024x576.jpg" >}}
 
 Ah ! Et sachez, janvier et février sont des mois non touristiques dans la région (il y fait trop froid). La saison en Norrland commence en mars car il ont de la neige jusqu'en JUIN !!!!!!
 
-![](images/20210210-09h02s56-768x1024.jpg)
+{{< figure src="images/20210210-09h02s56-768x1024.jpg" >}}

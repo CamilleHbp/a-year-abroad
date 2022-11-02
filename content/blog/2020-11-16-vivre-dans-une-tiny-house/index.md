@@ -11,11 +11,11 @@ cover:
 
 Nous avons découvert à notre arrivée une charmante petite maison dans la forêt, où nous allons passer les trois prochains mois.
 
-![](images/20201119-12h54s35-1024x768.jpg)
+{{< figure src="images/20201119-12h54s35-1024x768.jpg" >}}
 
 La tiny house en automne...
 
-![](images/20210112-08h28s32-1024x768.jpg)
+{{< figure src="images/20210112-08h28s32-1024x768.jpg" >}}
 
 ... et la même en hiver !
 
@@ -35,7 +35,7 @@ L’optimisation, voilà tout ! Le lit est en mezzanine, et les murs de la mais
 Nous sommes en Suède, et comme on dit là-bas, le bois vous chauffe trois fois ! Une fois en débitant l’arbre, une fois en le transportant, et une dernière fois en le brûlant !  
 Le chauffage est apporté par un petit poêle dont la cheminée donne sur le coté de la porte d’entrée. Vu le volume de la tiny house, il n’en faut pas plus pour réchauffer la pièce. Il faut juste prendre en compte l’inertie thermique et savoir que la pièce va mettre un peu de temps à se réchauffer quand on revient d’une journée en extérieur. Autre technique d’appoint : faire la cuisine ! La pièce étant petite, la chaleur dégagée par la cuisson permet parfois de bien se réchauffer, au prix d’un peu de vapeur et d’humidité !
 
-![](images/20201113-19h05s44-1024x768.jpg)
+{{< figure src="images/20201113-19h05s44-1024x768.jpg" >}}
 
 Nous nous sommes aussi aperçu de l’importance de l’isolation. Les températures ont commencé à baisser quelques semaines après notre arrivée, et nous avons commencé à avoir un peu froid avec l’arrivée de la neige. Nous avons décidé d’améliorer l’isolation et sommes partis dans un magasin de seconde main pour acheter des vieilles couvertures et quelques crochets en métal pour une bouchée de pain. Nous avons découpé et cousu les fixations sur la couverture, puis sommes allé chercher des branches dans la forêt pour fabriquer des tringles et suspendre notre création ! Tadam ! De beaux rideaux bien épais pour isoler les ouvertures, portes et fenêtres. Nous avons très vite senti la différence. Vive le « DIY » !
 
@@ -50,17 +50,17 @@ Deuxièmement, le poêle était placé juste à côté de la porte d’entrée. 
 Nous n’avons pas de raccordement au réseau électrique à Humble Habitat. L’été c’est un ensemble de panneaux photo-voltaïques qui génèrent la grande majorité de l’électricité qui est utilisée pour charger les batteries principales et celles des outils. Le soleil est présent pendant une bonne partie de la journée et de la nuit en Suède !  
 Une partie de l’électricité de la tiny house provient des grosses batteries centrales, une autre d’une petite batterie 12V située sous la tiny house. Ce circuit secondaire, auquel sont raccordés notre petite pompe à eau ainsi qu’une série de LED, est chargé par le panneau solaire en été.
 
-![](images/20201212-12h25s08-1024x768.jpg)
+{{< figure src="images/20201212-12h25s08-1024x768.jpg" >}}
 
 Ça se complique en hiver. Les hôtes sont installés récemment et utilisent un générateur thermique pour charger les batteries. Ils le faisaient tourner tous les jours à notre arrivée. L’avantage d’un terrain où les technologies sont plus bas-niveau et compréhensibles, c’est qu’on peut constamment améliorer et bidouiller. David, notre hôte, avait bougé les batteries à l’intérieur de l’atelier pour limiter les déperditions liées aux basses températures et avait mis en place un système de régulation pour ne plus avoir à charger qu’une fois tous les deux-trois jours. Il a aussi construit un prototype fonctionnel de turbine pour profiter du barrage construit par nos amis les castors et ainsi générer du courant hydro-électrique pour l’hiver. Comme disent nos amis anglophones, it’s a work-in-progress.
 
-![](images/20201231-13h03s18-1024x576.jpg)
+{{< figure src="images/20201231-13h03s18-1024x576.jpg" >}}
 
 ## Eau
 
 Pas d’eau courante dans la forêt ! Nous fonctionnons en allant cherche l’eau du puits que l’on stocke dans de gros containers. Nous tenions environ une semaine et demie avec 45 litres d’eau potable. C’est sûr que c’est moins que la consommation moyenne de 130l/jour par foyer ! :D La bonne nouvelle est que nous avons une petite pompe actionnée au pied pour tirer l’eau dans le robinet. C’est très pratique pour la vaisselle et remplir nos gourdes !
 
-![](images/20201127-15h38s10-1024x768.jpg)
+{{< figure src="images/20201127-15h38s10-1024x768.jpg" >}}
 
 Cette photo n'a aucun autre interêt que de montrer les talents de photographe d'Émelyne.
 
@@ -71,7 +71,7 @@ Le plus gros poste d’économie d’eau a été la vaisselle.
 
 Parlons d’ailleurs de ce puits ! Un petit cours d’eau passe au travers de Humble Habitat. Il faut savoir que comme pas mal d’endroit en Suède, l’eau ne manque pas! C’est d’ailleurs un peu marécageux par endroit. Le puits a été creusé le long du cours d’eau, ce n’est pas le débit qui pose problème! Enfin si, mais pas par le manque. Il y a tellement d’eau que le puits dégorge parfois, et il a fallu créer une petite canalisation pour permettre l’évacuation du surplus. L’eau est rendue potable grâce à diverses couches de cailloux, roches, sables qui filtrent et purifient l’eau. Nos hôtes nous ont informé qu’il fallait souvent quelques mois avant que l’eau ne soit parfaitement potable après la construction d’un puits de ce type. C’est le temps que des micro-organismes s’installent dans le sable et aident à l’élimination des bactéries qui peuvent nuire à l’Homme.
 
-![](images/130500961_223188409161850_2868053281091032286_o-1024x768.jpg)
+{{< figure src="images/130500961_223188409161850_2868053281091032286_o-1024x768.jpg" >}}
 
 Le fameux puit... quand il n'est pas couvert de neige !
 
@@ -79,7 +79,7 @@ Le fameux puit... quand il n'est pas couvert de neige !
 
 On touche au plus sensible dans ce mode de vie. Nous n’avons pas d’eau courante ici. Il n’y a pas de soucis quand les températures sont plus chaudes. Les hôtes ont fabriqué un petit château d’eau en bois sur le point le plus haut, et ce château d’eau redistribue l’eau avec la pression naturelle. Cela permet de remplir un tonneau en métal sous lequel on allume un feu et on prend une douche.
 
-![](images/vlcsnap-2021-03-23-17h22m58s070-1024x576.png)
+{{< figure src="images/vlcsnap-2021-03-23-17h22m58s070-1024x576.png" >}}
 
 La douche d'été !
 
@@ -87,15 +87,15 @@ Mais c’est impossible en hiver pour une simple raison : l’eau gèlerait dan
 
 Nous avons trouvé les solutions suivantes. Nous réchauffions de l’eau de pluie/de la neige sur le poêle pour la toilette régulière et nous lavions au gant. Il nous fallait une autre solution pour pouvoir se laver les cheveux avec des températures avoisinant les -15ºC. Les castors nous ont donné un coup de pouce ! Ils ont construit un barrage sur le cours d’eau qui traverse le terrain, juste à coté du sauna. Un étang s’y est formé et les hôtes ont construits un petit parcours pour accéder à un ponton au-dessus de la mare. Nous allions donc se réchauffer au sauna, puis marchions jusqu’au ponton. Une fois arrivés, il suffisait de casser la glace avec une hache et nous pouvions plonger dans l’étang ! Nous pouvions nous y savonner pour les plus courageux, ou simplement revenir au sauna où nous avions laissé un seau d’eau chauffer sur les pierres. Il nous suffisait de sortir devant le sauna pour pouvoir se prendre une petite douche chaude au seau ! Ta-dam !
 
-![](images/20201217-19h32s12-1024x768.jpg)
+{{< figure src="images/20201217-19h32s12-1024x768.jpg" >}}
 
 Un camille qui cuit doucement dans le sauna...
 
-![](images/20201117-10h16s38-1024x576.jpg)
+{{< figure src="images/20201117-10h16s38-1024x576.jpg" >}}
 
 ... avant de sauter dans le petit bassin généreusement construit par les castors !
 
-![](images/20201128-08h45s46-1024x768.jpg)
+{{< figure src="images/20201128-08h45s46-1024x768.jpg" >}}
 
 Emelyne aussi ! ... Mais elle, c'est à pieds joints à travers la glace !
 

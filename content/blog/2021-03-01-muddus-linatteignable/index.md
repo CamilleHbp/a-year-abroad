@@ -26,7 +26,7 @@ L’objectif est resté inatteignable ! C’est tristement qu’il a fallu renon
 
 Les éléments ont été clément et réconfortant. Nous avons vu plein de rennes les jours qui ont suivi et nous avons marché sur le cercle polaire !
 
-![](images/20210301-12h32s14-1024x576.jpg)
+{{< figure src="images/20210301-12h32s14-1024x576.jpg" >}}
 
 Nous avons profité du beau spectacle d’aurores boréales au-dessus d’un lac gelé – notamment grâce aux raquettes ! Désolés, les photos ne rendent pas bien du tout ! Mais c’était magnifique.
 
@@ -39,6 +39,6 @@ Nous avons eu un Fika avec notre hôte qui nous accueillerai à nouveau à bras 
 
 Voilà, c’est ainsi que se termine l’aventure en Norrland ! C’est un superbe souvenir et vraiment une région où il y a beaucoup à faire, mais où il faut beaucoup aimer la neige et conduire !
 
-![](images/20210303-13h10s48-1024x576.jpg)
+{{< figure src="images/20210303-13h10s48-1024x576.jpg" >}}
 
 Nous avons pris le train pour retourner dans le sud de la Suède et la nature nous a fait le cadeau de pouvoir admirer des aurores boréales depuis la fenêtre de notre cabine de train couchette !

@@ -51,7 +51,7 @@ Du coup, fin de la traversée de l’Allemagne et on voit toujours énormément 
 
 Bref, le train est reparti - sans que personne ne soit jeté par-dessus bord par les douaniers 😂- et on a commencé la traversé du Danemark ! C’était super ! Des paysages verdoyants avec pas mal d’étendues d’eau ! Le train passe sur plusieurs ponts, ce qui nous a permis de voir la mer !
 
-![](images/2020.12.10-Article1_GrandDepart_GIF-2.gif)
+{{< figure src="images/2020.12.10-Article1_GrandDepart_GIF-2.gif" >}}
 
 Arrivé à la gare de København H la nuit ! Si vous y passez, jetez un coup d’œil à la charpente. Elle est intégralement en bois, c’est une beauté architecturale !
 
@@ -79,7 +79,7 @@ A la découverte du train de nuit !
 
 Camille ne voulait pas passer une mauvaise nuit, sachant que dans un siège il n’arriverait jamais à dormir. Du coup, il est allé faire les yeux doux à la contrôleuse. La photo suivante vous donne le fin mot de l’histoire !
 
-![](images/20201104-21h46s36-1024x768.jpg)
+{{< figure src="images/20201104-21h46s36-1024x768.jpg" >}}
 
 Camille, fier de sa force de persuasion et heureux de pouvoir dormir.
 

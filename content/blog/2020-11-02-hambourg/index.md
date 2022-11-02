@@ -15,7 +15,7 @@ A peine descendus du train, la nuit tombait et il nous fallait trouver notre hô
 
 Si l’entrée de l’hôtel ne payait pas de mine, l’intérieur n’avait rien à envier à de très bons autres établissements. En fait ça faisait « hôtel/auberge de jeunesse ».
 
-![](images/Photo1-1024x768.jpg)
+{{< figure src="images/Photo1-1024x768.jpg" >}}
 
 Une chambre toute en longueur, simple mais efficace avec une vue dégagée sur la gare !
 
