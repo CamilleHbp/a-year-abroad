@@ -3,7 +3,10 @@ title: "On continue de profiter de Norrland !"
 date: "2021-02-22"
 categories: 
   - "jokkmokk"
-coverImage: "20210226-14h08s36-scaled.jpg"
+cover:
+  image: "images/20210226-14h08s36-scaled.jpg"
+  alt: "Post cover"
+  relative: true
 ---
 
 Ça y est, retour à notre vie à 2 !
@@ -20,7 +23,11 @@ Durant notre balade, on a pu prendre le temps d’en observer un au loin avec no
 
 Les animaux sont vraiment des ninjas ! Je pense que c’est très rare d’en croiser lors d’une marche. J’ai eu la chance d’entendre un oiseau lors d’une balade à ski en forêt et de l’apercevoir entre des branche avec mes jumelles, mais c’est seulement parce que de la neige lui était tombée dessus et l’avait surpris. Voyant que je l’avait remarqué, il a bien fait exprès de se mettre en contre jour, entre des branches pour bien se cacher et que je le perde de visu !
 
-https://youtu.be/rvgnt\_WxVrYhttps://youtu.be/TVv2hzmDLSU
+{{< youtube id="rvgnt_WxVrY" >}}
+ <br/>
+
+{{< youtube id="TVv2hzmDLSU" >}}
+ <br/>
 
 On a découvert le musée Ajtte de Jokkmokk. C’est un musée sur les territoires Sami. Il est génial ! En plus comme il faut réserver pour le visiter, on a eu le musée pour nous seul ! Il y a des informations sur tout, la géographie, le climat, la faune, la culture du peuple Sami qui y vit et donc beaucoup d’infos sur leurs traditions, sur leur artisanat, leur mode de vie. Et le plus important ! On a pu confirmer que les cacas de renne ressemblent bien à des cacas de lapin !
 

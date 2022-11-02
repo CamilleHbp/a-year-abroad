@@ -3,7 +3,10 @@ title: "1er Work Away du côté d'Arvika !"
 date: "2021-03-08"
 categories: 
   - "wwoof-et-workaway"
-coverImage: "20210313-10h06s34-scaled.jpg"
+cover:
+  image: "images/20210313-10h06s34-scaled.jpg"
+  alt: "Post cover"
+  relative: true
 ---
 
 On démarre vraiment notre expérience avec WWOOF et Workaway ! Ce sont des plateformes de volontariat où les gens peuvent d’un côté proposer de l’hébergement en échange d’un coup de main dans leur projet, ou de l’autre proposer leur aide à des endroits qui en ont besoin !

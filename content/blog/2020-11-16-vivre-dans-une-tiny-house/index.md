@@ -3,7 +3,10 @@ title: "Vivre dans une tiny house"
 date: "2020-11-16"
 categories: 
   - "humble-habitat"
-coverImage: "20210112-08h28s32-scaled.jpg"
+cover:
+  image: "images/20210112-08h28s32-scaled.jpg"
+  alt: "Post cover"
+  relative: true
 ---
 
 Nous avons découvert à notre arrivée une charmante petite maison dans la forêt, où nous allons passer les trois prochains mois.
@@ -24,7 +27,8 @@ Comment est-ce possible ? vous entends-je vous écrier, abasourdis par tant de 
 
 L’optimisation, voilà tout ! Le lit est en mezzanine, et les murs de la maisons sont construits en hexagone, permettant ainsi de placer les rangements sur ceux-ci sans consommer de surface au sol. Plutôt pratique !
 
-https://youtu.be/I-WlDg6b7dw
+{{< youtube id="I-WlDg6b7dw" >}} 
+ <br/>
 
 ## Chauffage
 

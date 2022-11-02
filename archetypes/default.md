@@ -2,7 +2,10 @@
 title: "{{ replace .Name "-" " " | title }}"
 categories: 
   - "depart"
-coverImage: "20201103-10h46s43-scaled.jpg"
+cover:
+  image: ""
+  alt: "Post cover"
+  relative: false
 date: {{ .Date }}
 draft: true
 ---

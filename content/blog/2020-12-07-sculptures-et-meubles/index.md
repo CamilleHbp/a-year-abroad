@@ -3,7 +3,10 @@ title: "Sculptures et meubles"
 date: "2020-12-07"
 categories: 
   - "humble-habitat"
-coverImage: "20201210-12h49s29-scaled.jpg"
+cover:
+  image: "images/20201210-12h49s29-scaled.jpg"
+  alt: "Post cover"
+  relative: true
 ---
 
 ## Le bureau made in Humble Habitat

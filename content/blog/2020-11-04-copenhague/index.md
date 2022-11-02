@@ -3,7 +3,10 @@ title: "Copenhague"
 date: "2020-11-04"
 categories: 
   - "depart"
-coverImage: "Photo3-scaled.jpg"
+cover:
+  image: "images/Photo3-scaled.jpg"
+  alt: "Post cover"
+  relative: true
 ---
 
 A peine sortis du train et nous sommes déjà dans notre chambre qui se trouvait en face de la gare ! Juste le temps de poser nos affaires, de télécharger la carte de la ville et c’était parti pour faire une première exploration de nuit de Copenhague !
@@ -57,4 +60,5 @@ Il est temps pour nous de se reposer de cette grande journée à vélo ! Directi
 
 Ce fut une belle note finale pour notre séjour dans cette ville extraordinaire ! A bientôt Copenhague ! The End, mais c'est fois-ci pour de vrai !
 
-https://youtu.be/axtnmEFUipM
+{{< youtube id="axtnmEFUipM" >}} 
+ <br/>

@@ -3,7 +3,10 @@ title: "Muddus l'inatteignable !"
 date: "2021-03-01"
 categories: 
   - "jokkmokk"
-coverImage: "20210303-13h10s48-scaled.jpg"
+cover:
+  image: "images/20210303-13h10s48-scaled.jpg"
+  alt: "Post cover"
+  relative: true
 ---
 
 Si vous avez bien suivis, Muddus est le parc national qu’on a visité plusieurs fois, mais où nous n’avons jamais réussi à dormir jusqu’à maintenant. Avant notre départ, nous voulions atteindre cet objectif !
@@ -14,7 +17,8 @@ Le jour J, le temps était avec nous (grand soleil et ciel bleu), nous étions h
 
 Bon... nous restons positifs et nous décidons de tenter un nouveau chemin pour skis nordiques que nous a indiqué un guide. Les distances sont beaucoup plus longues et nous sommes en raquettes… Mais essayons ! (La vidéo résume bien notre essaie !)
 
-https://youtu.be/zQ0HHvVULyE
+{{< youtube id="zQ0HHvVULyE" >}} 
+ <br/>
 
 Dormir dans une cabine en forêt enneigée était tellement un objectif qui tenait à cœur à Emelyne que nous avons retenté d'atteindre le parc les 2 jours qui ont suivis. Nous avons fait des kilomètres en plus pour tenter notre chance avec les autres entrées du parc. Et à chaque fois, nous rechargions nos sac de nourriture, sac de couchage, etc, et surtout touts les moyens possibles de locomotion : skis nordiques, raquettes !
 
@@ -28,7 +32,8 @@ Nous avons profité du beau spectacle d’aurores boréales au-dessus d’un lac
 
 Il fallait aussi profité des traditionnel barbecue entouré de neige et encore mieux, avec d’une descente de luge juste à côté ! (Si vous voulez savoir, les tickets de caisse peuvent sauver une barbecue partie !) Les meilleures luges sont des matelas imperméables !
 
-https://youtu.be/BmhlibCjKGs
+{{< youtube id="BmhlibCjKGs" >}} 
+ <br/>
 
 Nous avons eu un Fika avec notre hôte qui nous accueillerai à nouveau à bras ouvert ! (Ils nous ont même proposé de racheter l’hôtel de Jokkmokk ! haha)
 

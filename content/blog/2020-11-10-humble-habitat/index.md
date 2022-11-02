@@ -3,7 +3,10 @@ title: "Humble Habitat"
 date: "2020-11-10"
 categories: 
   - "humble-habitat"
-coverImage: "20210112-10h20s54-scaled.jpg"
+cover:
+  image: "images/20210112-10h20s54-scaled.jpg"
+  alt: "Post cover"
+  relative: true
 ---
 
 Nous arrivons enfin à Humble Habitat, une domaine forestier où vivent Eliza et David. David a grandi un partie de sa vie dans le Montana aux États-Unis. C’est là-bas qu’a vécu Eliza. Ils s’y sont rencontrés, avant de perdre le contact puis de finalement renouer les liens ! Ils sont aujourd’hui mariés et vivent ensemble sur ce terrain de Humble Habitat, près d’Hedemora en Dalarna (Dalécarlie). Ils ont deux chiens, Tygy et Bruno, qui sont, je crois, de type labrador retriever. Et un chat, Tobby, plus discret!
@@ -19,7 +22,8 @@ C’est dans cet endroit que la magie se passe ! Nous y bidouillons les projets
 
 L'atelier en été - by David & Eliza
 
-https://youtu.be/5EeY77brVQs
+{{< youtube id="5EeY77brVQs" >}} 
+ <br/>
 
 ## La tiny house
 
@@ -59,7 +63,8 @@ Nous avons assisté a une ou deux batailles en coq, c’est assez impressionnant
 
 Le poulailler - by David & Eliza
 
-https://youtu.be/TlEzi1twkPA
+{{< youtube id="TlEzi1twkPA" >}} 
+ <br/>
 
 ## La cuisine extérieure
 

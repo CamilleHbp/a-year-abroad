@@ -3,7 +3,10 @@ title: "Le Grand Départ"
 date: "2020-11-02"
 categories: 
   - "depart"
-coverImage: "20201102-05h21s57-scaled.jpg"
+cover:
+  image: "images/20201102-05h21s57-scaled.jpg"
+  alt: "Post cover"
+  relative: true
 ---
 
 **TL;DR** Too long; didn't read : acronyme cher à nos amis anglophones, soit un petit resumé pour ceux qui ne veulent que regarder les photos ! :) Nous avons organisé notre voyage en 3 étapes : Paris-Hambourg, Hambourg-Copenhague, Copenhague-Stockholm. Nous avons mis 3 jours en dormant a Hambourg et Copenhague, avant de prendre un train de nuit de Malmö à Sotckholm. Le but était d'éviter de prendre l'avion et de voir quelques villes européennes puisque nous avions le temps. Pour Hambourg, c'était un peu rapide, mais nous avons vraiment apprécié Copenhague !
@@ -60,7 +63,8 @@ Nous voici à la dernière étape du trajet !
 
 On a pris une sorte de TER qui fait le trajet de Copenhague à Malmo et voilà ! La Suède !!! Notre première étape de cette année de césure !
 
-<https://youtu.be/leUxEDx8Ls8>
+{{< youtube id="leUxEDx8Ls8" >}} 
+ <br/>
 
 Désolé pour le dialogue, je crois que nos cerveaux accusaient la fatigue du voyage !
 
@@ -68,7 +72,8 @@ Nous n’avons pas attendu longtemps notre train suivant. Il y a 9h de trajet do
 
 On ne savait pas si ce seraient des trains couchettes ou pas. Depuis le quai, on a aperçu des couchettes, mais quand on est arrivé à nos places, on s’est retrouvé devant des sièges !
 
-<https://youtu.be/bL23dl-Hnok>
+{{< youtube id="bL23dl-Hnok" >}} 
+ <br/>
 
 A la découverte du train de nuit !
 
@@ -78,7 +83,8 @@ Camille ne voulait pas passer une mauvaise nuit, sachant que dans un siège il n
 
 Camille, fier de sa force de persuasion et heureux de pouvoir dormir.
 
-<https://youtu.be/K-Thjkqi7Rs>
+{{< youtube id="K-Thjkqi7Rs" >}} 
+ <br/>
 
 Notre "confortable" cabine de train !
 

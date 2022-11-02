@@ -13,7 +13,7 @@ Nous sommes accueillis par Marie la française et Annika la suédoise. Nous voil
 
 Le printemps vient enfin et nous avons vu les arbres dévêtus se couvrir de jours en jours de leur robe verte.
 
-### Faut bien que ça bosse des volontaires !
+### Faut bien que ça bosse des volontaires
 
 Il faut nous loger, alors une de nos toute première mission a été de nous aménager un coin dodo !
 
@@ -37,13 +37,13 @@ En parallèle de la construction de la serre, nous travaillons au jardin d’une
 
 Travail au jardin !
 
-C’est une belle expérience de travailler sur ce terrain. Nous avons le coucou des canards et des cochons de temps en temps ! D’ailleurs, des bébés canard sont nés juste avant notre arrivée ! ![🧡](https://s.w.org/images/core/emoji/13.0.1/svg/1f9e1.svg)
+C’est une belle expérience de travailler sur ce terrain. Nous avons le coucou des canards et des cochons de temps en temps ! D’ailleurs, des bébés canard sont nés juste avant notre arrivée ! ❤️
 
 ![](images/Cochon-Canard1.gif)
 
 A la ferme !
 
-Ah oui, nous avons des chiennes maintenant ! Ce sont celles d’Annika, Mammouth est la maman de Ginko. Mammut n’a pas peur des caresses, mais Ginko est très peureuse. Mais au fur et à mesure des balades, elle s’est faite à nous! ? Merci les friandises ! _![😜](https://s.w.org/images/core/emoji/13.0.1/svg/1f61c.svg)_
+Ah oui, nous avons des chiennes maintenant ! Ce sont celles d’Annika, Mammouth est la maman de Ginko. Mammut n’a pas peur des caresses, mais Ginko est très peureuse. Mais au fur et à mesure des balades, elle s’est faite à nous! ? Merci les friandises ! 😜
 
 On est très heureux car Annika a beaucoup de contacts et nous en fait profiter dès qu’elle en a l’occasion. Nous allons voir différentes personnes qui ont construit leurs maisons avec des techniques variée, qui expérimentent des modes de vie alternatifs, ou plus en lien avec leur environnement proche.
 

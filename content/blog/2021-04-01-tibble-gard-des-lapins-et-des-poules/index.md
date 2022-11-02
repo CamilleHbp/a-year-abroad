@@ -3,7 +3,10 @@ title: "Tibble Gård – des lapins et des poules !"
 date: "2021-04-01"
 categories: 
   - "wwoof-et-workaway"
-coverImage: "LOISIR-5.jpg"
+cover:
+  image: "images/LOISIR-5.jpg"
+  alt: "Post cover"
+  relative: true
 ---
 
 ### Arrivée
@@ -78,7 +81,8 @@ Le monde est petit quand on a des intérêts communs ! Alors que nous installio
 
 Tant qu’on est dans les animaux, je me suis bien amusée avec les poussins en pleine croissance. Ces mignosités ont bien voulu apprendre avec moi ! Dans le vidéo, vous pouvez aussi découvrir une avancée qu’on croyait inatteignable : Emelyne a réussi à sortir un son de sa bouche ! Ce n’est pas encore du sifflement, mais c’est un progrès de fou en 27 ans d’existence !
 
-https://youtu.be/07a8pJBj478
+{{< youtube id="07a8pJBj478" >}}
+ <br/>
 
 ### Bilan
 

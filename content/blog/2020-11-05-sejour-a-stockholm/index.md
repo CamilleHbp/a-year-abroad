@@ -3,7 +3,10 @@ title: "Séjour à Stockholm"
 date: "2020-11-05"
 categories: 
   - "depart"
-coverImage: "20201105-08h13s34.jpg"
+cover:
+  image: "images/20201105-08h13s34.jpg"
+  alt: "Post cover"
+  relative: true
 ---
 
 # 5 Novembre 2020 – Découverte de la vieille ville
@@ -42,4 +45,5 @@ Nous nous arrêtons chez Dirty Vegan pour une pause gastronomique bien méritée
 
 Nous démarrons par une visite de Saltsjöbaden pour poser près d’une sculpture au bord de l’eau. Et maintenant, le principal objectif de la journée, passer à l’ambassade pour refaire nos passeports ! On stresse un peu car on arrive un peu en retard. Camille a peur que nos aimables fonctionnaires français nous envoient bouler parce que nous avons raté le créneau horaire ! Heureusement, et ce malgré la médisance de Camille, ce n’est pas du tout le cas et on discute bien avec la personne qui s’occupe de nos passeports. Un petit hot-dog de chez 7-11 pour célébrer notre séjour à Stockholm ! Émelyne les aime tellement qu’on vient en manger un à chaque passage à Stockholm ! :D
 
-<https://youtu.be/jJuH6v_LYfE>
+{{< youtube id="jJuH6v_LYfE" >}} 
+ <br/>

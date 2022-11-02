@@ -3,7 +3,10 @@ title: "Hambourg - Première halte"
 date: "2020-11-02"
 categories: 
   - "depart"
-coverImage: "20201103-10h46s43-scaled.jpg"
+cover:
+  image: "images/20201103-10h46s43-scaled.jpg"
+  alt: "Post cover"
+  relative: true
 ---
 
 ### Une première halte un peu ratée

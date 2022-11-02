@@ -3,7 +3,10 @@ title: "Maîtrise du ski nordique et parcs nationaux"
 date: "2021-02-08"
 categories: 
   - "jokkmokk"
-coverImage: "20210212-15h31s41-scaled.jpg"
+cover:
+  image: "images/20210212-15h31s41-scaled.jpg"
+  alt: "Post cover"
+  relative: true
 ---
 
 On essaie de se faire un petite sortie tous les jour (par exemple, au moins 1h de ski nordique ). Notamment car nous avons trouvé des VRAIS pistes de ski nordique ! La ville de Jokkmokk entretient des pistes autour de la ville et c'est comme ça que pas mal de gens se maintiennent en forme ! (Certains ont le footing, d'autres le ski nordique !)
@@ -17,7 +20,8 @@ Je ne sais pas si on vous a déjà parlé du "SystemBolaget" : c'est le magasin 
 Bref, on a aussi découvert une route sur un lac ! J'ai préféré ne pas conduire la voiture dessus car je n'ai vu aucune autre voiture et je ne voulais pas risquer d'avoir à appeler le propriétaire et lui annoncer "votre voiture est au fond d'un lac !"  
 Marcher sur le lac gelé nous a permis d'attendre une petite île avec une cabane abandonnée !
 
-https://youtu.be/SqFtuiKHqcw
+{{< youtube id="SqFtuiKHqcw" >}} 
+ <br/>
 
 On a eu la chance, un soir, de voir un ciel devenir tout vert !
 
@@ -33,7 +37,8 @@ Une des entrée de Sarek est près de la ville de Kvikkjokk qui était dans le t
 
 En ce qui concerne le parc de Stora Sjöfallet, nous avons pu y rentrer avec la voiture, mais on s'est fait une frayeur ! La route n'avait pas été déneigée et on a du affronter 40 cm de neige avec une vieille 2 roues motrices !
 
-https://youtu.be/RVC44AeYZUE
+{{< youtube id="RVC44AeYZUE" >}} 
+ <br/>
 
 Mais tout va bien, et comme on dit "après l'effort, le réconfort!"
 

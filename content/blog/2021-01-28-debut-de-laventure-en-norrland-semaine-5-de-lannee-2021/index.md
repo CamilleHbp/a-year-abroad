@@ -3,16 +3,21 @@ title: "Début de l'aventure en Norrland"
 date: "2021-01-28"
 categories: 
   - "jokkmokk"
-coverImage: "20210129-09h44s24.jpeg"
+cover:
+  image: "images/20210129-09h44s24.jpeg"
+  alt: "Post cover"
+  relative: true
 ---
 
 Réveil avec le soleil dans le train couchette.
 
-{{< youtube M52f9VuD9LI >}}
+{{< youtube id="M52f9VuD9LI" >}}
+<br/>
 
 On a compris qu’on était arrivé en Norrland, ou territoire Sami (et non Laponie car c’est un terme dégradant pour le peuple Sami), quand, à peine sorti du train, nos poils de nez se sont couvert de gel ! Et juste après notre bus s'est retrouvé bloqué par quoi ?... un troupeau de rennes !!!
 
-{{< youtube rec0E6N_91Q >}}
+{{< youtube id="rec0E6N_91Q" >}}
+<br/>
 
 Nous avons loué une voiture à un particulier qui nous a donné rendez-vous à la station de bus. Nous sommes arrivés et en effet, il y avait la voiture de location, mais personne ! On a attendu quelque minutes, puis on s’est rendu compte que la voiture n’était pas fermée… et les clés étaient dans le pare-soleil ! (comme dans les films !)
 
@@ -57,9 +62,12 @@ J’ai pris des ski avec des écailles, donc j’accroche assez dans la neige po
 
 Après 2 essais sur les  skis nordiques, des étoiles plein les yeux, on est parti pour le parc national de Muddus ! On voulais aller voir une cascade : Muddusagahtjaldak. Conclusion : c’était sympa, mais compliqué avec nos skis qui glissent (enfin, avec les skis de Camille qui vont à reculons !). On découvrait le chemin tranquillement sur nos skis qui n’étaient pas faits pour les nombreuses montées et descentes à pic ! Après 2 bonnes heures de rando à ski, nous avons déterré une table de pique-nique pour manger. Ça nous a congelé, car nous ne pouvions pas faire de feu… Vu l’heure, nous avons décidé de faire demi tour. La cascade pour une prochaine fois !
 
-![](images/20210206-11h35s13IMG_20210206_113513-2-1024x768.jpg) <https://youtu.be/i14c3rFxFjs>
+![](images/20210206-11h35s13IMG_20210206_113513-2-1024x768.jpg)
 
-Fatigués, mais contents d’avoir découvert un nouvel endroit, nous avions hâte de rentrer au chaud. C’était sans compter sur Camille qui veut essayer de conduire et de nettoyer le pare-brise en même temps… Nous sommes à peine sortis du parking que la voiture s’est retrouvé dans le monticule de neige du bas côté… Bon pas de stress, on va déneiger. Mais le bas de caisse de la voiture touchait la neige au sol et la voiture étaient inclinée… On a eu beau déneiger, mettre des morceaux de bois sous les roues, tout ce que vous voulez... au bout de deux heures d’essai (la nuit était tombé), il a fallu se résigner à appeler notre hôte pour avoir un numéro de dépanneuse… Finalement il est venu nous aider avec son 4x4. Nos deux heures de galère ont semblées ridicules quand il a tracté notre voiture hors de la neige en deux secondes ! Il n'y a pas de photo, car je n’ai plus eu de batterie à ce moment ! [☹](https://s.w.org/images/core/emoji/13.0.1/svg/2639.svg)
+{{< youtube id="i14c3rFxFjs" >}}
+ <br/>
+
+Fatigués, mais contents d’avoir découvert un nouvel endroit, nous avions hâte de rentrer au chaud. C’était sans compter sur Camille qui veut essayer de conduire et de nettoyer le pare-brise en même temps… Nous sommes à peine sortis du parking que la voiture s’est retrouvé dans le monticule de neige du bas côté… Bon pas de stress, on va déneiger. Mais le bas de caisse de la voiture touchait la neige au sol et la voiture étaient inclinée… On a eu beau déneiger, mettre des morceaux de bois sous les roues, tout ce que vous voulez... au bout de deux heures d’essai (la nuit était tombé), il a fallu se résigner à appeler notre hôte pour avoir un numéro de dépanneuse… Finalement il est venu nous aider avec son 4x4. Nos deux heures de galère ont semblées ridicules quand il a tracté notre voiture hors de la neige en deux secondes ! Il n'y a pas de photo, car je n’ai plus eu de batterie à ce moment ! 😞
 
 C’est à cette occasion qu’il nous a appris qu’on a souvent le réflexe de freiner quand la voiture glisse, mais il faut en fait accélérer pour permettre aux roues de reprendre de l’accroche ! On a aussi appris qu’on avait de la chance, car à son époque, il n’y avait pas de réseau à Muddus pour appeler quelqu'un au secours !
 

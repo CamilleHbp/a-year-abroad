@@ -1,9 +1,0 @@
-{{ define "main" }}
-
-	{{ partial "banner" site.Data.banner }}
-	{{ range first 10 .Site.RegularPages }}
-    {{ .Render "summary"}}
-  {{ end }}
-	{{ partial "template/footer" . }}
-
-{{ end }}
