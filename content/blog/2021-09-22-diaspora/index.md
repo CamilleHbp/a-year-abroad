@@ -1,6 +1,10 @@
 ---
 title: "Diaspora"
 date: "2021-09-22"
+cover:
+  image: "images/Diaspora-1.png"
+  alt: "Post cover"
+  relative: true
 ---
 
 Bien le bonjour à ceux qui jettent toujours un œil au blog alors que nous sommes de mauvais blogueur.euse.s !😅  

@@ -3,6 +3,10 @@ title: "Une très belle expérience à l'écovillage Utsikten Ekoby"
 date: "2021-06-13"
 categories: 
   - "wwoof-et-workaway"
+cover:
+  image: "images/Y-20210531-20h08s40-scaled.jpg"
+  alt: "Post cover"
+  relative: true
 ---
 
 _Ça y est, vous savez enfin ou nous sommes en temps réel ! (enfin, presque, le temps est encore passé trop vite, on part le 17 juin ! 😜)_
