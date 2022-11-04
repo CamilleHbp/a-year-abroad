@@ -15,7 +15,7 @@ A peine descendus du train, la nuit tombait et il nous fallait trouver notre hô
 
 Si l’entrée de l’hôtel ne payait pas de mine, l’intérieur n’avait rien à envier à de très bons autres établissements. En fait ça faisait « hôtel/auberge de jeunesse ».
 
-{{< figure src="images/Photo1-1024x768.jpg" >}}
+{{< figure src="images/Photo1.jpg" >}}
 
 Une chambre toute en longueur, simple mais efficace avec une vue dégagée sur la gare !
 
@@ -24,3 +24,5 @@ Hambourg est la ville qui a donné son nom au fameux Hamburger donc je voulais a
 Bref, après une bonne nuit de repos, c’est parti pour visiter la ville ! On s’est trompé et on est parti dans la mauvaise direction. On aura au moins vu la banlieue/l’ex-centre de Hambourg en passant par une coulée verte. Bref, une matinée n’était pas assez de temps et on a juste pu profiter du soleil, de l’architecture de quelques bâtiments. On n’a malheureusement rien vu du centre-ville !
 
 On aimerait revenir à Hambourg pour prendre notre revanche et pour tester les restaurants végans. On pense en particulier à un sushi qui avait l’air extra !
+
+{{< gallery srcFolder="images/gallery-1" >}}

@@ -1,0 +1,15 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js"></script>
+
+<!-- Gallery -->
+<div class="gallery">
+    {{ $imageFolder := .Get "srcFolder"}}
+    {{ $imageFolderPath := print $imageFolder "/*"}}
+    {{ with .Page.Resources.Match $imageFolderPath }}
+        {{ range . }}
+            {{ $thumbnail := .Fill "600x340 q75" }}
+            <a class="image-wrapper" href="{{ .Permalink }}" data-lightbox="x"><img src="{{ $thumbnail.Permalink }}" /></a>
+        {{ end }}
+    {{ end }}
+</div>

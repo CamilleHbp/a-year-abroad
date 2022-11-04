@@ -1,0 +1,17 @@
+.gallery {
+  display: flex;
+  min-height: 340px;
+  min-width: 100%;
+  overflow-x: auto;
+  align-items: center;
+}
+
+.gallery .image-wrapper {
+  display: contents;
+}
+
+.gallery img {
+  border-radius: 5%;
+  margin: 0 2%;
+
+}
