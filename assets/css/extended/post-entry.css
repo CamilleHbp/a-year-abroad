@@ -38,6 +38,18 @@
     -webkit-line-clamp: 3;
 }
 
+.first-entry .entry-footer {
+    font-size: 14px;
+}
+
+.first-entry .entry-cover {
+    border-radius: 5%;
+}
+
+.home-info .entry-content {
+    -webkit-line-clamp: unset;
+}
+
 .post-entry {
     position: relative;
     margin-bottom: var(--gap);
