@@ -10,9 +10,9 @@ paginate: 20
 theme: "PaperMod"
 
 ## -----------------------------------------------
-## Basic Configuration
+## Build Configuration
 ## -----------------------------------------------
-enableRobotsTXT: true
+enableRobotsTXT: false
 buildDrafts: false
 buildFuture: false
 buildExpired: false
@@ -29,8 +29,6 @@ params:
   description: "Notre blog de voyage en Suede"
   keywords: [Blog, Portfolio, Sweden]
   author: Camille
-  # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -41,7 +39,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
   ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
+  ShowRssButtonInSectionTermList: false
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false

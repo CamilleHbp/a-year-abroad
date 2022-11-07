@@ -4,7 +4,7 @@ date: "2020-11-02"
 categories: 
   - "depart"
 cover:
-  image: "images/20201102-05h21s57-scaled.jpg"
+  image: "images/20201102-05h21s57.jpg"
   alt: "Post cover"
   relative: true
 ---
@@ -25,7 +25,7 @@ Paris gare de l’est – Hambourg (via Francfort)
 
 * * *
 
-![Vers Francfort](images/20201102-06h37s03-1024x768.jpg)
+![Vers Francfort](images/20201102-06h37s03.jpg)
 
 Premier (et dernier) voyage du séjour avec la SNCF:
 
@@ -51,7 +51,7 @@ Du coup, fin de la traversée de l’Allemagne et on voit toujours énormément 
 
 Bref, le train est reparti - sans que personne ne soit jeté par-dessus bord par les douaniers 😂- et on a commencé la traversé du Danemark ! C’était super ! Des paysages verdoyants avec pas mal d’étendues d’eau ! Le train passe sur plusieurs ponts, ce qui nous a permis de voir la mer !
 
-{{< figure src="images/2020.12.10-Article1_GrandDepart_GIF-2.gif" >}}
+![](images/2020.12.10-Article1_GrandDepart_GIF-2.gif)
 
 Arrivé à la gare de København H la nuit ! Si vous y passez, jetez un coup d’œil à la charpente. Elle est intégralement en bois, c’est une beauté architecturale !
 
@@ -63,7 +63,7 @@ Nous voici à la dernière étape du trajet !
 
 On a pris une sorte de TER qui fait le trajet de Copenhague à Malmo et voilà ! La Suède !!! Notre première étape de cette année de césure !
 
-{{< youtube id="leUxEDx8Ls8" >}} 
+{{< youtube id="leUxEDx8Ls8" >}}
  <br/>
 
 Désolé pour le dialogue, je crois que nos cerveaux accusaient la fatigue du voyage !
@@ -72,18 +72,18 @@ Nous n’avons pas attendu longtemps notre train suivant. Il y a 9h de trajet do
 
 On ne savait pas si ce seraient des trains couchettes ou pas. Depuis le quai, on a aperçu des couchettes, mais quand on est arrivé à nos places, on s’est retrouvé devant des sièges !
 
-{{< youtube id="bL23dl-Hnok" >}} 
+{{< youtube id="bL23dl-Hnok" >}}
  <br/>
 
 A la découverte du train de nuit !
 
 Camille ne voulait pas passer une mauvaise nuit, sachant que dans un siège il n’arriverait jamais à dormir. Du coup, il est allé faire les yeux doux à la contrôleuse. La photo suivante vous donne le fin mot de l’histoire !
 
-{{< figure src="images/20201104-21h46s36-1024x768.jpg" >}}
+![Au dodo!](images/20201104-21h46s36.jpg)
 
 Camille, fier de sa force de persuasion et heureux de pouvoir dormir.
 
-{{< youtube id="K-Thjkqi7Rs" >}} 
+{{< youtube id="K-Thjkqi7Rs" >}}
  <br/>
 
 Notre "confortable" cabine de train !

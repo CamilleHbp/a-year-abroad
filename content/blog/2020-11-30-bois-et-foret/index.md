@@ -4,7 +4,7 @@ date: "2020-11-30"
 categories: 
   - "humble-habitat"
 cover:
-  image: "images/20210126-14h08s18-scaled.jpg"
+  image: "images/20210126-14h08s18.jpg"
   alt: "Post cover"
   relative: true
 ---
@@ -13,7 +13,7 @@ cover:
 
 Nous avons appris un technique pour pouvoir faire sécher un arbre avant de l’abattre. C’est utile si nous avons peu de temps pour l’abattage mais que nous savons que nous aurons besoin de bois de chauffage dans quelques mois. Il suffit d’enlever un cercle d’écorce au pied de l’arbre. Si vous enlevez bien l’écorce interne (liber) et externe (suber) sur tout le périmètre de l’arbre, la sève ne peut plus alimenter l’arbre puisqu’elle circule entre l’écorce et le tronc. L’arbre meurt donc et commence à sécher sur pied. Pratique pour ne pas avoir un tronc immense qui gêne sur le sol et pourri en contact avec la terre.
 
-{{< figure src="images/20210124-13h38s42-1024x576.jpg" >}}
+![](images/20210124-13h38s42.jpg)
 
 On peut apercevoir les bases écorcées des arbres.
 
@@ -23,7 +23,7 @@ J’ai entendu David et de notre hôte AirBnb à Uppsala parler d’une autre va
 
 Nous avons pu assister à une démonstration d’abattage par David. La technique suédoise consiste à créer une entaille horizontale, le plancher, dans la direction vers laquelle on souhaite voir l’arbre tomber. La largeur finale de l’entaille doit être environ de 80 % du diamètre du tronc. Nous devons ensuite entailler une seconde fois avec un angle d’au moins 70 % et rejoindre la première, c’est le plafond. Il faut ensuite percer le tronc de part et d’autre pour marquer la fin du trait d’abattage. Nous devons percer quelques centimètres au-dessus de notre entaille, c’est l’épaulement, et laisser une charnière d’au moins 2 centimètres entre l’entaille et cette marque. Il reste enfin à tracer le trait d’abattage à la tronçonneuse. Une fois terminé, nous devons placer des cales dans le trait et utiliser l’huile de coude pour percuter les cales et faire tomber l’arbre !
 
-{{< figure src="images/abattage-entaille.jpg" >}}
+![](images/abattage-entaille.jpg)
 
 {{< youtube id="E0emYlOy7Ks" >}} 
  <br/>
@@ -41,11 +41,11 @@ David possède un outil très pratique mais que peu de particuliers ont : une s
 
 L’écorçage peut être nécessaire suivant l’utilisation que l’on veut faire du bois. Nous pouvons admirer Émelyne en train de chevaucher un pin pour le raser de près !
 
-{{< figure src="images/20201123-12h49s49-1024x768.jpg" >}}
+![](images/20201123-12h49s49.jpg)
 
 Il est parfois plus pratique pour les petits gabarits de les positionner sur un cheval.
 
-{{< figure src="images/20201117-10h09s14-1024x576.jpg" >}}
+![](images/20201117-10h09s14.jpg)
 
 ## Bois de chauffe
 

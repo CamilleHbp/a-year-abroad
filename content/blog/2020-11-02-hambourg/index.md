@@ -4,7 +4,7 @@ date: "2020-11-02"
 categories: 
   - "depart"
 cover:
-  image: "images/20201103-10h46s43-scaled.jpg"
+  image: "images/20201103-10h46s43.jpg"
   alt: "Post cover"
   relative: true
 ---
@@ -15,7 +15,7 @@ A peine descendus du train, la nuit tombait et il nous fallait trouver notre hô
 
 Si l’entrée de l’hôtel ne payait pas de mine, l’intérieur n’avait rien à envier à de très bons autres établissements. En fait ça faisait « hôtel/auberge de jeunesse ».
 
-{{< figure src="images/Photo1.jpg" >}}
+![Chambre d'hotel](images/Photo1.jpg)
 
 Une chambre toute en longueur, simple mais efficace avec une vue dégagée sur la gare !
 

@@ -4,7 +4,7 @@ date: "2021-02-22"
 categories: 
   - "jokkmokk"
 cover:
-  image: "images/20210226-14h08s36-scaled.jpg"
+  image: "images/20210226-14h08s36.jpg"
   alt: "Post cover"
   relative: true
 ---

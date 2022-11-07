@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default " auto" }}">
+
+
+<head>
+    <!-- Link Lightbox2's CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css"
+        referrerpolicy="no-referrer" />
+    <!-- Link Swiper's CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css" />
+
+    {{- partial "head.html" . }}
+</head>
+
+<body class="
+{{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) -}}
+{{- print " list" -}} {{- end -}} {{- if eq site.Params.defaultTheme `dark` -}} {{- print " dark" }} {{- end -}} " id=" top">
+
+    <!-- Link JQuery and Lightbox2's JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"
+        integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous"
+        referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"
+        integrity="sha512-k2GFCTbp9rQU412BStrcD/rlwv1PYec9SNrkbQlo6RZCf75l6KcC3UwDY8H5n5hl4v77IDtIPwOk9Dqjs/mMBQ==" crossorigin="anonymous"
+        referrerpolicy="no-referrer"></script>
+
+    <!-- Website's template -->
+    {{- partialCached "header.html" . .Page -}}
+    <main class="main">
+        {{- block "main" . }}{{ end }}
+    </main>
+    {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+
+
+    <!-- Link Swiper's JS -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+    <!-- Initialize Swiper -->
+    <script type="text/javascript">
+        var thumbSwiper = new Swiper(".thumbSwiper", {
+            loop: true,
+            spaceBetween: 10,
+            slidesPerView: 4,
+            freeMode: true,
+            watchSlidesProgress: true,
+        });
+        var fullSwiper = new Swiper(".fullSwiper", {
+            loop: false,
+            keyboard: {
+                enabled: true,
+                onlyInViewport: false,
+            },
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
+            pagination: {
+                el: '.swiper-pagination',
+                type: 'bullets',
+            },
+            spaceBetween: 10,
+            thumbs: {
+                swiper: thumbSwiper,
+            },
+            zoom: {
+                maxRatio: 5,
+            },
+        });
+    </script>
+</body>
+
+</html>

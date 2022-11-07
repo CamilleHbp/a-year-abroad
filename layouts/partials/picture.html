@@ -1,5 +1,5 @@
-<article>
-    <a href="{{ . }}" class="image">
-        <img src="{{ . }}" alt="" />
-    </a>
-</article>
+<a class="image-wrapper" href="{{ .Destination | safeURL }}" data-lightbox="picture">
+    <figure>
+        <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}" {{ end }} />
+    </figure>
+</a>

@@ -21,27 +21,27 @@ Diaspora est un réseau social qui s'apparente à Facebook, mais décentralisé,
 
 Vous pouvez aller sur le site diaspora diasporafoundation.org  
 
-{{< figure src="images/Diaspora-1-1024x519.png" >}}
+![](images/Diaspora-1.png)
 
 Et vous pouvez suivre les instructions.
 
-{{< figure src="images/Diaspora-2-1024x524.png" >}}
+![](images/Diaspora-2.png)
 
 En bref, il faut choisir un serveur où vos données seront stockées = un pod.  
 Vous choisissez ce pod suivant vos critères (pays, nombre d'utilisateur, compagnie que vous aimez bien...)  
 Conseil : sélectionnez les pods qui acceptent les nouveaux venu.e.s en sélectionnant "yes" dans "signup"  
 
-{{< figure src="images/Diaspora-3-1024x521.png" >}}
+![](images/Diaspora-3.png)
 
 Si vous ne savez que choisir, je vous propose celui sur lequel je suis (s'ils acceptent encore des nouveaux) : Sysad.  
 Vous suivez ce lien : sysad.org/users/sign\_in  
 et cliquez sur "créer un nouveau compte".
 
-{{< figure src="images/Diaspora-4-1024x517.png" >}}
+![](images/Diaspora-4.png)
 
 Vous n'avez plus qu'à remplir les champs et suivre les indications.
 
-{{< figure src="images/Diaspora-5-1024x519.png" >}}
+![](images/Diaspora-5.png)
 
 Conseil: une fois le compte créé, allez dans les paramètres où il y à un encart "notification par mail".  Décochez TOUS les encarts pour ne pas vous faire harceler de mails (au cas où vous deveniez des accros des réseaux sociaux 😂 ) et cliquez sur "modifier" pour que ça enregistre. 😉
 

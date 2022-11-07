@@ -27,7 +27,7 @@ Que tout le monde se rassure, c’était bien notre voiture de location. C’est
 
 On a découvert notre maison pour un mois et ça change des quinze mètres carré de la tiny house ! On a encore un poêle mais beaucoup plus grand et qui ressemble à une statue de l’île de pâque ! Mais le plus important, c’est qu’on a découvert le bois sec !Nous n’avons eu aucun souci pour démarrer le feu, ça change !
 
-{{< figure src="images/20210129-15h49s25-1024x768.jpg" >}}
+![](images/20210129-15h49s25.jpg)
 
 Durant la semaine, on a testé la moitié des resto de la ville (pour ceux qui étaient ouverts) et c’est le resto thaï qui gagne haut la main ! La cuisinière est thaï et fait des plats délicieux en quantité déraisonnable ! :D
 
@@ -62,7 +62,7 @@ J’ai pris des ski avec des écailles, donc j’accroche assez dans la neige po
 
 Après 2 essais sur les  skis nordiques, des étoiles plein les yeux, on est parti pour le parc national de Muddus ! On voulais aller voir une cascade : Muddusagahtjaldak. Conclusion : c’était sympa, mais compliqué avec nos skis qui glissent (enfin, avec les skis de Camille qui vont à reculons !). On découvrait le chemin tranquillement sur nos skis qui n’étaient pas faits pour les nombreuses montées et descentes à pic ! Après 2 bonnes heures de rando à ski, nous avons déterré une table de pique-nique pour manger. Ça nous a congelé, car nous ne pouvions pas faire de feu… Vu l’heure, nous avons décidé de faire demi tour. La cascade pour une prochaine fois !
 
-{{< figure src="images/20210206-11h35s13IMG_20210206_113513-2-1024x768.jpg" >}}
+![](images/20210206-11h35s13IMG_20210206_113513-2.jpg)
 
 {{< youtube id="i14c3rFxFjs" >}}
  <br/>
@@ -75,4 +75,4 @@ Quand on n’a pas de tête, on a des jambes !
 
 Une première semaine bien remplie ! On a hâte de la suite !
 
-{{< figure src="images/20210204-15h14s32-1024x576.jpg" >}}
+![](images/20210204-15h14s32.jpg)

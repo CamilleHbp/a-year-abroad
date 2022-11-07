@@ -4,7 +4,7 @@ date: "2021-01-11"
 categories: 
   - "humble-habitat"
 cover:
-  image: "images/20201228-13h41s40-scaled.jpg"
+  image: "images/20201228-13h41s40.jpg"
   alt: "Post cover"
   relative: true
 ---

@@ -1,15 +1,25 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js"></script>
-
-<!-- Gallery -->
-<div class="gallery">
+<div style="--swiper-navigation-color: #fff; --swiper-pagination-color: #fff" class="swiper fullSwiper">
+    <div class="swiper-wrapper">
     {{ $imageFolder := .Get "srcFolder"}}
     {{ $imageFolderPath := print $imageFolder "/*"}}
     {{ with .Page.Resources.Match $imageFolderPath }}
         {{ range . }}
-            {{ $thumbnail := .Fill "600x340 q75" }}
-            <a class="image-wrapper" href="{{ .Permalink }}" data-lightbox="x"><img src="{{ $thumbnail.Permalink }}" /></a>
+            <img class="swiper-slide" src="{{ .Permalink }}" />
         {{ end }}
     {{ end }}
+    </div>
+    <div class="swiper-button swiper-button-prev"></div>
+    <div class="swiper-button swiper-button-next"></div>
+</div>
+<div thumbsSlider="" class="swiper thumbSwiper">
+    <div class="swiper-wrapper">
+            {{ $imageFolder := .Get "srcFolder"}}
+            {{ $imageFolderPath := print $imageFolder "/*"}}
+            {{ with .Page.Resources.Match $imageFolderPath }}
+            {{ range . }}
+                {{ $thumbnail := .Fill "600x340 q75" }}
+                <img class="swiper-slide" src="{{ $thumbnail.Permalink }}" />
+            {{ end }}
+            {{ end }}
+    </div>
 </div>

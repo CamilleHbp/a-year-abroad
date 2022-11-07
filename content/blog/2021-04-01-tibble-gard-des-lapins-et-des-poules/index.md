@@ -15,7 +15,7 @@ Nous sortons d’une journée de transport en commun. Nous avons traversé la Su
 
 Le bus nous a déposé devant notre nouvelle maison et nous avons été quelque peu surpris ! Il y avait beaucoup de gros objets abandonnés devant la maison : des tôles, des tracteurs, des voitures, une petite maison effondrée…
 
-{{< figure src="images/GIF-Bazar.gif" >}}
+![](images/GIF-Bazar.gif)
 
 Lena est venue nous accueillir et nous avons pu découvrir son beau projet en plein chantier !
 
@@ -29,23 +29,23 @@ Lena nous a fait visiter son terrain où nous avons pu découvrir le container d
 
 Pour ce Wwoofing il s’agit donc de s’occuper principalement des animaux, car Lena compte augmenter la vente d’œufs et d’animaux de compagnie.
 
-{{< figure src="images/GIF-DanseAuguste.gif" >}}
+![](images/GIF-DanseAuguste.gif)
 
 D’ailleurs, il y a aussi 5 chats qui se baladent dans la maison et qu’il faut nourrir !
 
 Alors soyons clair. Nous savions déjà que les animaux représentent beaucoup de travail et que l’élevage ne nous intéressait pas. Et bien ça ne nous a pas fait changer d’avis ! Haha, on n’est pas vegan pour rien.
 
-{{< figure src="images/GIF-LapinTour-ProcheRapide-Final.gif" >}}
+![](images/GIF-LapinTour-ProcheRapide-Final.gif)
 
 Et ne pensez pas qu’on s’en occupe mal, parce qu’un des lapins est mort ! ;P Nous sommes aux petits soins à bien faire attention qu’ils n’aient pas leur repas trop tard. Du coup, aucune grasse mat’ : tous les jours de la semaine, nous sommes levés pour nourrir les animaux !
 
 Belle nouvelle, les bébés lapins sont nés et grandissent doucement !
 
-{{< figure src="images/GIF-BebeLapin.gif" >}}
+![](images/GIF-BebeLapin.gif)
 
 Nous avons également assisté à la naissance des poussins en incubateur. Nous les regardons grandir : ils sont mignons petits et apparemment vont devenir moches ado ! Chacun a son préféré, mais deux d’entre eux ont déjà commencé à se battre !
 
-{{< figure src="images/GIF-PoussindeAaZ.gif" >}}
+![](images/GIF-PoussindeAaZ.gif)
 
 ### Mettre de l’ordre
 
@@ -61,23 +61,23 @@ Alors que je rangeais les outils sur les étagères du placard, ces dernières s
 
 Actuellement, nous sommes sur un nouveau projet : construire un nouvel enclos extérieur pour les poules. Camille a pu s’entrainer à faire un plan 3D, maintenant, place à la pratique !
 
-{{< figure src="images/GIF-EmelyneBadass.gif" >}}
+![](images/GIF-EmelyneBadass.gif)
 
 Nous sommes très fières de notre construction faite avec seulement des planches de récupération que nous avons taillées en tasseaux. La seule dépense a été une petite boîte de longues vis pour la base !
 
 ### Temps libre
 
-{{< figure src="images/GIF-Papillon.gif" >}}
+![](images/GIF-Papillon.gif)
 
 C’est très agréable, nous sommes assez indépendants et nous avons sorti les vélos de la grange pour aller découvrir les environs ! J’ai expérimenté pour la 1ère fois le vélo sans vitesses, avec freinage par pédalage inversé ! Je n’y croyais pas, mais ça y est, je maîtrise l’engin !
 
-{{< figure src="images/GIF-Velo.gif" >}}
+![](images/GIF-Velo.gif)
 
 C’est très agréable de toujours trouver un coin de forêt où se balader et cet air de Fontainebleau avec de l’eau nous fait encore sourire !
 
 Le monde est petit quand on a des intérêts communs ! Alors que nous installions la nouvelle bâche du poulailler, une personne est venue visiter le terrain et il s’avère que c’est une personne qu’on avait rencontré durant nos 3 mois à Humble habitat ! Elle a commencé à construire sa tiny house et il s’avère que là on où elle travaille il y a un chat incroyable. Je vous laisse découvrir dans le GIF.
 
-{{< figure src="images/GIF-CHatBadass.gif" >}}
+![](images/GIF-CHatBadass.gif)
 
 Tant qu’on est dans les animaux, je me suis bien amusée avec les poussins en pleine croissance. Ces mignosités ont bien voulu apprendre avec moi ! Dans le vidéo, vous pouvez aussi découvrir une avancée qu’on croyait inatteignable : Emelyne a réussi à sortir un son de sa bouche ! Ce n’est pas encore du sifflement, mais c’est un progrès de fou en 27 ans d’existence !
 
